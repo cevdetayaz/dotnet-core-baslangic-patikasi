@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\console-app.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\console-app.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\console-app.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\console-app.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\ref\console-app.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\bin\Debug\net6.0\console-app.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\ref\console-app.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\console-app\obj\Debug\net6.0\console-app.genruntimeconfig.cache
