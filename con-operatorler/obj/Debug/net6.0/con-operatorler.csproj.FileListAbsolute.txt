@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\con-operatorler.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\con-operatorler.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\con-operatorler.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\con-operatorler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\ref\con-operatorler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\bin\Debug\net6.0\con-operatorler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\ref\con-operatorler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-operatorler\obj\Debug\net6.0\con-operatorler.genruntimeconfig.cache
