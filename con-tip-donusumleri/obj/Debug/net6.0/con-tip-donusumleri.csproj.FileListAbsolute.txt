@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\con-tip-donusumleri.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\con-tip-donusumleri.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\con-tip-donusumleri.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\con-tip-donusumleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\ref\con-tip-donusumleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\bin\Debug\net6.0\con-tip-donusumleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\ref\con-tip-donusumleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\con-tip-donusumleri\obj\Debug\net6.0\con-tip-donusumleri.genruntimeconfig.cache
