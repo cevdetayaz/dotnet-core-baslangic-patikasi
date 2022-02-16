@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ref\ifelseyapisi.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\bin\Debug\net6.0\ifelseyapisi.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ref\ifelseyapisi.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\ifelseyapisi\obj\Debug\net6.0\ifelseyapisi.genruntimeconfig.cache
