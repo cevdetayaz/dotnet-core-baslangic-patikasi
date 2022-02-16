@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\donguler.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\donguler.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\donguler.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\donguler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\ref\donguler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\bin\Debug\net6.0\donguler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\ref\donguler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\donguler\obj\Debug\net6.0\donguler.genruntimeconfig.cache
