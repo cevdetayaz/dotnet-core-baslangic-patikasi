@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\kararyapilari.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\kararyapilari.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\kararyapilari.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\kararyapilari.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\ref\kararyapilari.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\bin\Debug\net6.0\kararyapilari.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\ref\kararyapilari.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\kararyapilari\obj\Debug\net6.0\kararyapilari.genruntimeconfig.cache
