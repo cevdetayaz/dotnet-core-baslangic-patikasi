@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\hata-yontemleri.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\hata-yontemleri.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\hata-yontemleri.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\hata-yontemleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\ref\hata-yontemleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\bin\Debug\net6.0\hata-yontemleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\ref\hata-yontemleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\hata-yontemleri\obj\Debug\net6.0\hata-yontemleri.genruntimeconfig.cache
