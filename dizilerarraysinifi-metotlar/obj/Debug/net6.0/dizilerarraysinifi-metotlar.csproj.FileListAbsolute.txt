@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\dizilerarraysinifi-metotlar.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\dizilerarraysinifi-metotlar.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\dizilerarraysinifi-metotlar.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\dizilerarraysinifi-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\ref\dizilerarraysinifi-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\bin\Debug\net6.0\dizilerarraysinifi-metotlar.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\ref\dizilerarraysinifi-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\dizilerarraysinifi-metotlar\obj\Debug\net6.0\dizilerarraysinifi-metotlar.genruntimeconfig.cache
