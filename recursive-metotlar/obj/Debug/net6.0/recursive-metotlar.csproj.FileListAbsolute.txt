@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\recursive-metotlar.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\recursive-metotlar.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\recursive-metotlar.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\recursive-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\ref\recursive-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\bin\Debug\net6.0\recursive-metotlar.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\ref\recursive-metotlar.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\recursive-metotlar\obj\Debug\net6.0\recursive-metotlar.genruntimeconfig.cache
