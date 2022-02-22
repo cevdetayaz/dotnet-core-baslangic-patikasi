@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\bin\Debug\net6.0\arraylist-ornekleri.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\bin\Debug\net6.0\arraylist-ornekleri.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\bin\Debug\net6.0\arraylist-ornekleri.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\bin\Debug\net6.0\arraylist-ornekleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\bin\Debug\net6.0\arraylist-ornekleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\refint\arraylist-ornekleri.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\arraylist-ornekleri.genruntimeconfig.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\arraylist-ornekleri\obj\Debug\net6.0\ref\arraylist-ornekleri.dll
