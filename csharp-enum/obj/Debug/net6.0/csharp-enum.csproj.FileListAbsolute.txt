@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\bin\Debug\net6.0\csharp-enum.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\bin\Debug\net6.0\csharp-enum.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\bin\Debug\net6.0\csharp-enum.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\bin\Debug\net6.0\csharp-enum.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\bin\Debug\net6.0\csharp-enum.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\refint\csharp-enum.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\csharp-enum.genruntimeconfig.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\csharp-enum\obj\Debug\net6.0\ref\csharp-enum.dll
