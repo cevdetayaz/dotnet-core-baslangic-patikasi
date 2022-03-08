@@ -1,0 +1,15 @@
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\bin\Debug\net6.0\denemeler.exe
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\bin\Debug\net6.0\denemeler.deps.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\bin\Debug\net6.0\denemeler.runtimeconfig.json
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\bin\Debug\net6.0\denemeler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\bin\Debug\net6.0\denemeler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.csproj.AssemblyReference.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.AssemblyInfoInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.AssemblyInfo.cs
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.csproj.CoreCompileInputs.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\ref\denemeler.dll
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.pdb
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\denemeler.genruntimeconfig.cache
+C:\Users\cevde\Documents\Sites\dotnet-core-patikasi\denemeler\obj\Debug\net6.0\refint\denemeler.dll

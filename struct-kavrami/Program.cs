@@ -33,7 +33,7 @@ struct Dikdortgen_Struct
 {
     public int kisaKenar;
     public int uzuNkenar;
-    public Dikdortgen(int kisaKenar, int uzuNkenar)
+    public Dikdortgen_Struct(int kisaKenar, int uzuNkenar)
     {
         this.kisaKenar = kisaKenar;
         this.uzuNkenar = uzuNkenar;

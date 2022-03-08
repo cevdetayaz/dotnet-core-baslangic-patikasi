@@ -36,4 +36,3 @@ foreach (var araba in arabalar)
 {
     Console.WriteLine(araba);
 }
-
