@@ -193,31 +193,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cevde\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cevde\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-patikasi\\web-api\\Hellowebapi\\Hellowebapi.csproj",
+      "projectUniqueName": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-baslangic-patikasi\\web-api\\hellowebapi\\Hellowebapi.csproj",
       "projectName": "Hellowebapi",
-      "projectPath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-patikasi\\web-api\\Hellowebapi\\Hellowebapi.csproj",
+      "projectPath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-baslangic-patikasi\\web-api\\hellowebapi\\Hellowebapi.csproj",
       "packagesPath": "C:\\Users\\cevde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-patikasi\\web-api\\Hellowebapi\\obj\\",
+      "outputPath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-baslangic-patikasi\\web-api\\hellowebapi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cevde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\cevde\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

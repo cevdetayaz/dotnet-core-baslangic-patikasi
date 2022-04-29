@@ -14,6 +14,7 @@ namespace Hellowebapi
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            int deneme = 0;
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

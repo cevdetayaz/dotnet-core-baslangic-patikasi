@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OG8bx4Xx1Yu518sbtkSDMfusZxTAc5H+BDnedYuvofCc+ZSX6uQK3Yd9MgsVwHB/A9FNJbdEQ8JgCE8qbkt2Mw==",
+  "dgSpecHash": "ic2OExHQcH8BD5UlhxEmw67BIPPD8FUo/4srpa0TtoJTgcUgKqho3RkahnccmPNcYV1JgivtmjzTp2OeRNKfXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-patikasi\\web-api\\Hellowebapi\\Hellowebapi.csproj",
+  "projectFilePath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-baslangic-patikasi\\web-api\\hellowebapi\\Hellowebapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cevde\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\cevde\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
