@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG8bx4Xx1Yu518sbtkSDMfusZxTAc5H+BDnedYuvofCc+ZSX6uQK3Yd9MgsVwHB/A9FNJbdEQ8JgCE8qbkt2Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cevde\\Documents\\Sites\\dotnet-core-patikasi\\web-api\\Hellowebapi\\Hellowebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cevde\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cevde\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cevde\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\cevde\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\cevde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\cevde\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
